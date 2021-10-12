@@ -164,7 +164,7 @@ function Flux:Window(text, bottom,mainclr,toclose)
 
 	TabHold.Name = "TabHold"
 	TabHold.Parent = LeftFrame
-	TabHold.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+	TabHold.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 	TabHold.BackgroundTransparency = 1.000
 	TabHold.Position = UDim2.new(0, 0, 0.167355374, 0)
 	TabHold.Size = UDim2.new(0, 205, 0, 403)
